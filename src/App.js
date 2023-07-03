@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <div>Everything you've come to expect</div>
-      <span className="changes">Some changes</span>
+      <span className="changes andMore">Some changes</span>
     </div>
   );
 }
